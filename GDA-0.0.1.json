@@ -1,0 +1,290 @@
+{
+  "author": "",
+  "category": "Advanced",
+  "extensionNamespace": "",
+  "fullName": "GDA",
+  "gdevelopVersion": "",
+  "helpPath": "",
+  "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQoJLnN0MXtmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjI7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30NCjwvc3R5bGU+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMyIgeTE9IjExIiB4Mj0iMjkiIHkyPSIxMSIvPg0KPGc+DQoJPHBhdGggZD0iTTcsOUM2LjcsOSw2LjUsOC45LDYuMyw4LjdDNi4xLDguNSw2LDguMyw2LDhjMC0wLjMsMC4xLTAuNSwwLjMtMC43YzAsMCwwLjEtMC4xLDAuMS0wLjFjMC4xLDAsMC4xLTAuMSwwLjItMC4xDQoJCUM2LjcsNyw2LjcsNyw2LjgsN2MwLjEsMCwwLjMsMCwwLjQsMGMwLjEsMCwwLjEsMCwwLjIsMC4xYzAuMSwwLDAuMSwwLjEsMC4yLDAuMWMwLDAsMC4xLDAuMSwwLjEsMC4xYzAuMSwwLjEsMC4yLDAuMiwwLjIsMC4zDQoJCUM4LDcuNyw4LDcuOSw4LDhjMCwwLjEsMCwwLjMtMC4xLDAuNEM3LjksOC41LDcuOCw4LjYsNy43LDguN0M3LjUsOC45LDcuMyw5LDcsOXoiLz4NCjwvZz4NCjxnPg0KCTxwYXRoIGQ9Ik0xMCw5QzkuNyw5LDkuNSw4LjksOS4zLDguN0M5LjEsOC41LDksOC4zLDksOGMwLTAuMSwwLTAuMywwLjEtMC40YzAuMS0wLjEsMC4xLTAuMiwwLjItMC4zYzAuMS0wLjEsMC4yLTAuMiwwLjMtMC4yDQoJCUMxMCw2LjksMTAuNCw3LDEwLjcsNy4zYzAuMSwwLjEsMC4yLDAuMiwwLjIsMC4zQzExLDcuNywxMSw3LjksMTEsOGMwLDAuMy0wLjEsMC41LTAuMywwLjdDMTAuNSw4LjksMTAuMyw5LDEwLDl6Ii8+DQo8L2c+DQo8Zz4NCgk8cGF0aCBkPSJNMTMsOWMtMC4xLDAtMC4zLDAtMC40LTAuMWMtMC4xLTAuMS0wLjItMC4xLTAuMy0wLjJjLTAuMS0wLjEtMC4yLTAuMi0wLjItMC4zQzEyLDguMywxMiw4LjEsMTIsOGMwLTAuMSwwLTAuMywwLjEtMC40DQoJCWMwLjEtMC4xLDAuMS0wLjIsMC4yLTAuM2MwLjQtMC40LDEtMC40LDEuNCwwYzAuMSwwLjEsMC4yLDAuMiwwLjIsMC4zQzE0LDcuNywxNCw3LjksMTQsOGMwLDAuMSwwLDAuMy0wLjEsMC40DQoJCWMtMC4xLDAuMS0wLjEsMC4yLTAuMiwwLjNDMTMuNSw4LjksMTMuMyw5LDEzLDl6Ii8+DQo8L2c+DQo8Y2lyY2xlIGNsYXNzPSJzdDAiIGN4PSIyNCIgY3k9IjIzIiByPSI3Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMjQiIHkxPSIyMCIgeDI9IjI0IiB5Mj0iMjYiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIyMSIgeTE9IjIzIiB4Mj0iMjciIHkyPSIyMyIvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI5LDE4LjFWN2MwLTEuMS0wLjktMi0yLTJINUMzLjksNSwzLDUuOSwzLDd2MThjMCwxLjEsMC45LDIsMiwyaDEzLjMiLz4NCjwvc3ZnPg0K",
+  "name": "GDA",
+  "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/Line Hero Pack/Master/SVG/Applications and Programming/4ddd6ba5c9fb914d92a94b2af7196f28d18aa3fe30b95512d5d61acee0b9c0c0_Applications and Programming_application_coding_web_page_add.svg",
+  "shortDescription": "Addons",
+  "version": "0.0.1",
+  "description": "Addons",
+  "tags": [
+    "mod",
+    "mods",
+    "js",
+    "gdjs",
+    "file",
+    "addon"
+  ],
+  "authorIds": [
+    "RSeNCxLJD2N3iBVerJci9hztlNp2"
+  ],
+  "dependencies": [],
+  "globalVariables": [
+    {
+      "name": "Addons",
+      "type": "structure",
+      "children": [
+        {
+          "name": "Loaded",
+          "type": "array",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "type": "string",
+      "value": "console.log(\"Hello World!\")"
+    }
+  ],
+  "sceneVariables": [
+    {
+      "name": "i",
+      "type": "number",
+      "value": 0
+    }
+  ],
+  "eventsFunctions": [
+    {
+      "fullName": "Load Addon",
+      "functionType": "Action",
+      "name": "LoadAddon",
+      "sentence": "Load addon with name _PARAM1_ and source _PARAM2_",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "Addon.Name",
+                "=",
+                "Name"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "Addon.Source",
+                "=",
+                "Source"
+              ]
+            },
+            {
+              "type": {
+                "value": "PushVariable"
+              },
+              "parameters": [
+                "Addons.Loaded",
+                "Addon"
+              ]
+            },
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "Addon.Name + \" has been successfully loaded\"",
+                "\"info\"",
+                ""
+              ]
+            }
+          ],
+          "variables": [
+            {
+              "name": "Addon",
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Name",
+                  "type": "string",
+                  "value": ""
+                },
+                {
+                  "name": "Source",
+                  "type": "string",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": [
+        {
+          "description": "Name",
+          "name": "Name",
+          "type": "string"
+        },
+        {
+          "description": "Source",
+          "name": "Source",
+          "type": "string"
+        }
+      ],
+      "objectGroups": []
+    },
+    {
+      "fullName": "Remove Addon",
+      "functionType": "Action",
+      "name": "RemoveAddon",
+      "sentence": "Remove addon with name _PARAM1_",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::ForEachChildVariable",
+          "iterableVariableName": "Addons.Loaded",
+          "valueIteratorVariableName": "child",
+          "keyIteratorVariableName": "i",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Addons.Loaded[i].Name",
+                "=",
+                "Name"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "Name + \" has been removed :C\"",
+                "\"info\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "RemoveVariableAt"
+              },
+              "parameters": [
+                "Addons.Loaded",
+                "i"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": [
+        {
+          "description": "Name",
+          "name": "Name",
+          "type": "string"
+        }
+      ],
+      "objectGroups": []
+    },
+    {
+      "fullName": "Execute (all) Addons",
+      "functionType": "Action",
+      "name": "ExecuteAddons",
+      "sentence": "Execute (all) addons",
+      "events": [
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::ForEachChildVariable",
+          "iterableVariableName": "Addons.Loaded",
+          "valueIteratorVariableName": "child",
+          "keyIteratorVariableName": "i",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "Addons.Loaded[i].Source",
+                "\"info\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": [
+            "/** @type {gdjs.XXX} */\r",
+            "\r",
+            "var a = runtimeScene.getGame().getVariablesForExtension(\"GDA\").get(\"Addons\").getChild(\"Loaded\").getAllChildren();\r",
+            "var b = runtimeScene.getGame().getVariablesForExtension(\"GDA\").get(\"Addons\").getChild(\"Loaded\")._childrenArray\r",
+            "\r",
+            "for(let x = 0; x < b.length; x++) {\r",
+            "    eval(a[x].getChild(\"Source\")._str)\r",
+            "}"
+          ],
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": true
+        }
+      ],
+      "parameters": [],
+      "objectGroups": []
+    },
+    {
+      "fullName": "List",
+      "functionType": "StringExpression",
+      "name": "List",
+      "sentence": "",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetReturnString"
+              },
+              "parameters": [
+                "ToJSON(Addons.Loaded)"
+              ]
+            }
+          ]
+        }
+      ],
+      "expressionType": {
+        "type": "string"
+      },
+      "parameters": [],
+      "objectGroups": []
+    },
+    {
+      "fullName": "Execute Code",
+      "functionType": "Action",
+      "name": "ExecuteCode",
+      "sentence": "Execute code _PARAM1_",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": "eval(eventsFunctionContext.getArgument(\"Code\"))",
+          "parameterObjects": "",
+          "useStrict": true,
+          "eventsSheetExpanded": false
+        }
+      ],
+      "parameters": [
+        {
+          "description": "Source",
+          "name": "Code",
+          "type": "string"
+        }
+      ],
+      "objectGroups": []
+    }
+  ],
+  "eventsBasedBehaviors": [],
+  "eventsBasedObjects": []
+}
