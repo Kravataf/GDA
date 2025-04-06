@@ -13,4 +13,5 @@ I'll update this part later...
 
 # Making addons
 
-gdjs // js
+First of all, you need to have a name for your addon 
+(this doesn't really matter, it's just used for accessing the addon later, for example when deleting)
