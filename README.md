@@ -12,6 +12,8 @@ the addon is first loaded. To run your addons, just add `Execute (all) addons` a
 I'll update this part later...
 
 ![Screenshot 2025-04-05 203529](https://github.com/user-attachments/assets/7ca1260a-d176-410f-a6a4-cca0cca2e746)
+![Screenshot 2025-04-06 151347](https://github.com/user-attachments/assets/ac3acc5c-e4e8-4afd-9eba-9ef7904d91d6)
+
 
 # Making addons
 
