@@ -2,10 +2,15 @@ _<p align="center" dir="auto">This extension uses `eval` for execution of Javasc
 
 # <p align="center" dir="auto">GDAddon 🤔</p>
 
-Extension which allows loading/deleting and execution of addons, as well as other stuff.
+Adds functionality for loading & deleting of addons. Each addon has a `Name` and a `Source` code, these are defined when
+the addon is first loaded. To run your addons, just add `Execute (all) addons` action into a separate event.
 
 # How to use
 
-I'll update this part of the README.md soon, maybe :U
+I'll update this part later...
 
 ![Screenshot 2025-04-05 203529](https://github.com/user-attachments/assets/7ca1260a-d176-410f-a6a4-cca0cca2e746)
+
+# Making addons
+
+gdjs // js
