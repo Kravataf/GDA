@@ -18,7 +18,7 @@ I'll update this part later...
 # Making addons
 
 1. First of all, you need to have a name for your addon (this doesn't really matter, it's just used for accessing the addon later, for example when deleting)
-2. The second thing zou need to add when loading the addon is the `Source`, this is basically the code the addon will run. Websites i recommend when writing in Javascript for Gdevelop 5 are the [gdjs documentation](https://docs.gdevelop.io/GDJS%20Runtime%20Documentation/) and the [wiki](https://wiki.gdevelop.io/gdevelop5/events/js-code/) (which has the basics)
+2. The second thing you need to add when loading the addon is the `Source`, this is basically the code the addon will run. Websites i recommend when writing in Javascript for Gdevelop 5 are the [gdjs documentation](https://docs.gdevelop.io/GDJS%20Runtime%20Documentation/) and the [wiki](https://wiki.gdevelop.io/gdevelop5/events/js-code/) (which has the basics)
 
 # Functions
 
