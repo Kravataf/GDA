@@ -7,9 +7,7 @@
 Adds functionality for loading & deleting of addons. Each addon has a `Name` and a `Source` code, these are defined when
 the addon is first loaded. To run your addons, just add `Execute (all) addons` action into a separate event.
 
-# How to use
-
-~I'll update this part later...~
+# Basic example
 
 ![Screenshot 2025-04-05 203529](https://github.com/user-attachments/assets/7ca1260a-d176-410f-a6a4-cca0cca2e746)
 ![Screenshot 2025-04-06 151347](https://github.com/user-attachments/assets/ac3acc5c-e4e8-4afd-9eba-9ef7904d91d6)
@@ -17,8 +15,9 @@ the addon is first loaded. To run your addons, just add `Execute (all) addons` a
 
 # Making addons
 
-1. First of all, you need to have a name for your addon (this doesn't really matter, it's just used for accessing the addon later, for example when deleting)
-2. The second thing you need to add when loading the addon is the `Source`, this is basically the code the addon will run. Websites i recommend when writing in Javascript for Gdevelop 5 are the [gdjs documentation](https://docs.gdevelop.io/GDJS%20Runtime%20Documentation/) and the [wiki](https://wiki.gdevelop.io/gdevelop5/events/js-code/) (which has the basics)
+Every addon needs a `Name` and a `Source`, the `Name` is being used to access the addon later (for example if you want to remove it). And `Source` is the JavaScript that the extension will execute from this specific addon.
+
+Websites i recommend when writing in Javascript for Gdevelop 5 are the [gdjs documentation](https://docs.gdevelop.io/GDJS%20Runtime%20Documentation/) and the [wiki](https://wiki.gdevelop.io/gdevelop5/events/js-code/) (which has the basics)
 
 # List of features:
 
